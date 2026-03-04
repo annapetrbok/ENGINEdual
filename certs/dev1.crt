@@ -1,0 +1,36 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=US, CN=ca
+        Validity
+            Not Before: Mar  4 20:10:00 2026 GMT
+            Not After : Mar  4 20:10:00 2027 GMT
+        Subject: C=US, CN=dev1
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:df:01:82:6c:1d:af:90:aa:66:83:4c:4c:9d:bb:
+                    11:4f:19:c1:fd:c4:f1:fb:f1:00:6d:dc:2f:a6:26:
+                    66:43:bb:dc:9c:88:76:e4:42:98:2b:09:c2:22:a0:
+                    bb:d4:95:34:45:f3:db:66:25:60:1b:91:0d:6d:b7:
+                    ef:33:7c:5e:c9
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:45:02:20:07:0f:bc:e3:08:98:f1:0e:26:3b:2a:04:db:8f:
+        e9:2f:9c:60:39:0c:6a:6c:d9:8d:94:41:0b:8b:b8:70:7d:5f:
+        02:21:00:81:1e:4c:5b:fb:fa:34:06:83:1d:7a:95:82:e6:1c:
+        09:03:5e:f7:44:5f:75:28:93:75:ef:15:bc:bc:34:00:52
+-----BEGIN CERTIFICATE-----
+MIIBHTCBxAIBBDAKBggqhkjOPQQDAjAaMQswCQYDVQQGEwJVUzELMAkGA1UEAwwC
+Y2EwHhcNMjYwMzA0MjAxMDAwWhcNMjcwMzA0MjAxMDAwWjAcMQswCQYDVQQGEwJV
+UzENMAsGA1UEAwwEZGV2MTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABN8Bgmwd
+r5CqZoNMTJ27EU8Zwf3E8fvxAG3cL6YmZkO73JyIduRCmCsJwiKgu9SVNEXz22Yl
+YBuRDW237zN8XskwCgYIKoZIzj0EAwIDSAAwRQIgBw+84wiY8Q4mOyoE24/pL5xg
+OQxqbNmNlEELi7hwfV8CIQCBHkxb+/o0BoMdepWC5hwJA173RF91KJN17xW8vDQA
+Ug==
+-----END CERTIFICATE-----
